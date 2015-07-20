@@ -1,0 +1,12 @@
+{
+  "name": "generator-drupal-gulp",
+  "version": "0.0.0",
+  "description": "Generate gulp resources for a Drupal project",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.20.2"
+  }
+}
